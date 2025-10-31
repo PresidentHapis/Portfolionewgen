@@ -56,10 +56,10 @@ export default function Header() {
                 {/* Nama Hafiz */}
                 <div className="flex flex-col">
                   <span className="text-lg font-bold text-gray-900">
-                    HAFIZ
+                    Halo Masbro
                   </span>
                   <span className="text-xs text-gray-600">
-                    Developer
+                    NULL
                   </span>
                 </div>
               </motion.div>
