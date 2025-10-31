@@ -10,7 +10,8 @@ const projects = [
         tech: ["Laravel", "Mysql", "Blade"],
         github: "#",
         live: "#",
-        image: "/image/project1.jpg"
+        image: "/image/project1.jpg",
+        featured:true
     },
       {
         title: "QR Code generate",
@@ -18,7 +19,8 @@ const projects = [
         tech: ["Python", "Flask", "HTML"],
         github: "#",
         live: "#",
-        image: "/image/project2.jpg"
+        image: "/image/project2.jpg",
+        featured: true
     },
       {
         title: "News App",
@@ -26,7 +28,8 @@ const projects = [
         tech: ["Python", "HTML", "Flask"],
         github: "#",
         live: "#",
-        image: "/image/project3.jpg"
+        image: "/image/project3.jpg",
+        featured: true
     },
      {
         title: "Quiz App",
@@ -34,7 +37,8 @@ const projects = [
         tech: ["Python", "HTML", "Flask"],
         github: "#",
         live: "#",
-        image: "/image/project4.jpg"
+        image: "/image/project4.jpg",
+        featured: true
     }
 ]
 
@@ -72,7 +76,7 @@ export default function Projects() {
               <div className={`relative overflow-hidden ${
                 project.featured ? 'h-80' : 'h-60'
               }`}>
-                <div className="w-full h-full bg-gradient-to-br from-yellow-400 to-yellow-400 flex items-center justify-center">
+                <div className="w-full h-full bg-gradient-to-br from-gray-600 to-gray-800 flex items-center justify-center">
                   <span className="text-white text-lg font-semibold">Project Image</span>
                 </div>
                 
