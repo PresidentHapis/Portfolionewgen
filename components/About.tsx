@@ -64,7 +64,7 @@ export default function About() {
           className="text-center mb-16"
         >
           <h2 className="text-4xl md:text-5xl font-bold mb-6 text-slate-900">
-            Skills & Technologies
+            Skills & Teknologi
           </h2>
           <p className="text-xl text-slate-600 max-w-3xl mx-auto">
             Teknologi dan tools yang saya kuasai untuk membangun aplikasi web modern dan scalable.
@@ -102,7 +102,7 @@ export default function About() {
           className="mt-16 text-center"
         >
           <h3 className="text-2xl font-bold mb-8 text-slate-900">
-            Other Technologies I Use
+           Teknologi lain yang saya pakai
           </h3>
           <div className="flex flex-wrap justify-center gap-6">
             {[

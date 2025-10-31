@@ -39,11 +39,10 @@ export default function Contact() {
           className="text-center mb-16"
         >
           <h2 className="text-4xl md:text-5xl font-bold mb-6 text-gray-900">
-            Let's Work Together
+            Mari Bekerja Sama!
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Have a project in mind? I'd love to hear about it. Let's create something amazing together.
-          </p>
+            Punya ide proyek? Ceritakan saja pada saya. Yuk, kita buat sesuatu yang keren bareng-bareng!          </p>
         </motion.div>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 max-w-6xl mx-auto">
@@ -57,8 +56,8 @@ export default function Contact() {
             <div>
               <h3 className="text-2xl font-bold mb-6 text-gray-900">Get in Touch</h3>
               <p className="text-gray-600 mb-8">
-                I'm always interested in new opportunities and creative projects. 
-                Feel free to reach out if you'd like to work together!
+               Saya senang dengan peluang baru dan proyek menarik.
+                Hubungi saya jika kamu ingin bekerja sama!
               </p>
             </div>
 

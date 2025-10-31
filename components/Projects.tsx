@@ -54,11 +54,10 @@ export default function Projects() {
           className="text-center mb-16"
         >
           <h2 className="text-4xl md:text-5xl font-bold mb-6 text-slate-900">
-            Featured Projects
+            Proyek Saya
           </h2>
           <p className="text-xl text-slate-600 max-w-2xl mx-auto">
-            Here are some of my recent projects that showcase my skills and experience in web development.
-          </p>
+Berikut beberapa proyek terbaru saya yang menunjukkan kemampuan dan pengalaman saya dalam pengembangan web. Under Development!          </p>
         </motion.div>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">

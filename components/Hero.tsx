@@ -63,9 +63,7 @@
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.3 }}
             className="text-lg text-gray-600 max-w-2xl mx-auto mb-12 leading-relaxed"
-          >
-            I craft digital solutions using modern technologies. 
-            Passionate about clean code, user experience, and building products that matter.
+          >Halo! Saya Hafiz Pratama Adithya, pelajar SMK Plus Pelita Nusantara berusia 16 tahun. Saya sedang belajar menjadi seorang front-end developer dengan fokus pada Next.js. Saya suka membuat tampilan web yang menarik, sederhana, dan nyaman digunakan.
           </motion.p>
 
           {/* CTA Buttons */}
